@@ -1,2 +1,2 @@
-# AndroidBuildSystem
-Understanding of Android architecture, makefiles, sepolicies
+# Miscellaneous ScrapBook
+Understanding of OS, Systems, Languages, tools etc.
